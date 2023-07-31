@@ -1,0 +1,996 @@
+HTML Content
+"<div class=""row fight_data_ufc"">
+ <div class=""totals_summary"">
+  <h2>
+   Fight Totals
+  </h2>
+  <div class=""ufc_left"">
+  </div>
+  <div class=""ufc_middle"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Knockdowns
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       52 of 81
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       70 of 92
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       81
+      </td>
+      <th scope=""row"">
+       Significant Strikes Attempted
+      </th>
+      <td>
+       92
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       64.20%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       76.09%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       82
+      </td>
+      <th scope=""row"">
+       Total Strikes
+      </th>
+      <td>
+       112
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       117
+      </td>
+      <th scope=""row"">
+       Total Strikes Attempted
+      </th>
+      <td>
+       138
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       3 of 8
+      </td>
+      <th scope=""row"">
+       Takedowns
+      </th>
+      <td>
+       0 of 0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       8
+      </td>
+      <th scope=""row"">
+       Takedowns  Attempted
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       37.50%
+      </td>
+      <th scope=""row"">
+       Takedown %
+      </th>
+      <td>
+       0%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       2
+      </td>
+      <th scope=""row"">
+       Submissions Attempted
+      </th>
+      <td>
+       1
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Passes
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Reversals
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class=""ufc_right"">
+  </div>
+ </div>
+ <div class=""totals_by_round"">
+  <h3>
+   Fight Totals By Round
+  </h3>
+  <h4>
+   Round 1
+  </h4>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Knockdowns
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       6 of 6
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       2 of 3
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       100%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       66%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       33%
+      </td>
+      <th scope=""row"">
+       Takedown %
+      </th>
+      <td>
+       0%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       2
+      </td>
+      <th scope=""row"">
+       Submissions Attempted
+      </th>
+      <td>
+       1
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Reversals
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <h4>
+   Round 2
+  </h4>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Knockdowns
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       20 of 29
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       33 of 47
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       68%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       70%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       50%
+      </td>
+      <th scope=""row"">
+       Takedown %
+      </th>
+      <td>
+       0%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Submissions Attempted
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Reversals
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <h4>
+   Round 3
+  </h4>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Knockdowns
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       26 of 46
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       35 of 42
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       56%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       83%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       33%
+      </td>
+      <th scope=""row"">
+       Takedown %
+      </th>
+      <td>
+       0%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Submissions Attempted
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0
+      </td>
+      <th scope=""row"">
+       Reversals
+      </th>
+      <td>
+       0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+ <div class=""sig_strikes_summary"">
+  <h2>
+   Significant Strikes
+  </h2>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       52
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       70
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       64.20%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       76.09%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       41 of 66
+      </td>
+      <th scope=""row"">
+       Head
+      </th>
+      <td>
+       26 of 46
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       4 of 8
+      </td>
+      <th scope=""row"">
+       Body
+      </th>
+      <td>
+       23 of 24
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       7 of 7
+      </td>
+      <th scope=""row"">
+       Leg
+      </th>
+      <td>
+       21 of 22
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       41 of 67
+      </td>
+      <th scope=""row"">
+       Distance
+      </th>
+      <td>
+       62 of 83
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       3 of 5
+      </td>
+      <th scope=""row"">
+       Clinch
+      </th>
+      <td>
+       7 of 8
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       8 of 9
+      </td>
+      <th scope=""row"">
+       Ground
+      </th>
+      <td>
+       1 of 1
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+ <div class=""sig_strikes_by_round"">
+  <h3>
+   Significant Strikes By Round
+  </h3>
+  <h4>
+   Round 1
+  </h4>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       6 of 6
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       2 of 3
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       100%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       66%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       6 of 6
+      </td>
+      <th scope=""row"">
+       Head
+      </th>
+      <td>
+       1 of 2
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0 of 0
+      </td>
+      <th scope=""row"">
+       Body
+      </th>
+      <td>
+       0 of 0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0 of 0
+      </td>
+      <th scope=""row"">
+       Leg
+      </th>
+      <td>
+       1 of 1
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       1 of 1
+      </td>
+      <th scope=""row"">
+       Distance
+      </th>
+      <td>
+       1 of 2
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       0 of 0
+      </td>
+      <th scope=""row"">
+       Clinch
+      </th>
+      <td>
+       1 of 1
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       5 of 5
+      </td>
+      <th scope=""row"">
+       Ground
+      </th>
+      <td>
+       0 of 0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <h4>
+   Round 2
+  </h4>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       20 of 29
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       33 of 47
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       68%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       70%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       15 of 21
+      </td>
+      <th scope=""row"">
+       Head
+      </th>
+      <td>
+       13 of 25
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       2 of 5
+      </td>
+      <th scope=""row"">
+       Body
+      </th>
+      <td>
+       10 of 11
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       3 of 3
+      </td>
+      <th scope=""row"">
+       Leg
+      </th>
+      <td>
+       10 of 11
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       16 of 24
+      </td>
+      <th scope=""row"">
+       Distance
+      </th>
+      <td>
+       28 of 41
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       2 of 3
+      </td>
+      <th scope=""row"">
+       Clinch
+      </th>
+      <td>
+       4 of 5
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       2 of 2
+      </td>
+      <th scope=""row"">
+       Ground
+      </th>
+      <td>
+       1 of 1
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <h4>
+   Round 3
+  </h4>
+  <div style=""overflow-x:auto"">
+   <table class=""table table-striped ufc_stats_table"">
+    <thead>
+     <tr>
+      <th scope=""col"">
+       Jan Blachowicz
+      </th>
+      <th scope=""col"">
+      </th>
+      <th scope=""col"">
+       Alex Pereira
+      </th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td>
+       26 of 46
+      </td>
+      <th scope=""row"">
+       Significant Strikes
+      </th>
+      <td>
+       35 of 42
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       56%
+      </td>
+      <th scope=""row"">
+       Significant Strikes %
+      </th>
+      <td>
+       83%
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       20 of 39
+      </td>
+      <th scope=""row"">
+       Head
+      </th>
+      <td>
+       12 of 19
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       2 of 3
+      </td>
+      <th scope=""row"">
+       Body
+      </th>
+      <td>
+       13 of 13
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       4 of 4
+      </td>
+      <th scope=""row"">
+       Leg
+      </th>
+      <td>
+       10 of 10
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       24 of 42
+      </td>
+      <th scope=""row"">
+       Distance
+      </th>
+      <td>
+       33 of 40
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       1 of 2
+      </td>
+      <th scope=""row"">
+       Clinch
+      </th>
+      <td>
+       2 of 2
+      </td>
+     </tr>
+     <tr>
+     </tr>
+     <tr>
+      <td>
+       1 of 2
+      </td>
+      <th scope=""row"">
+       Ground
+      </th>
+      <td>
+       0 of 0
+      </td>
+     </tr>
+     <tr>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+</div>
+"

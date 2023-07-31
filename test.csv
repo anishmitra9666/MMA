@@ -1,0 +1,304 @@
+HTML Content
+"<div class=""totals_by_round"">
+ <h3>
+  Fight Totals By Round
+ </h3>
+ <h4>
+  Round 1
+ </h4>
+ <div style=""overflow-x:auto"">
+  <table class=""table table-striped ufc_stats_table"">
+   <thead>
+    <tr>
+     <th scope=""col"">
+      Jan Blachowicz
+     </th>
+     <th scope=""col"">
+     </th>
+     <th scope=""col"">
+      Alex Pereira
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Knockdowns
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      6 of 6
+     </td>
+     <th scope=""row"">
+      Significant Strikes
+     </th>
+     <td>
+      2 of 3
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      100%
+     </td>
+     <th scope=""row"">
+      Significant Strikes %
+     </th>
+     <td>
+      66%
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      33%
+     </td>
+     <th scope=""row"">
+      Takedown %
+     </th>
+     <td>
+      0%
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      2
+     </td>
+     <th scope=""row"">
+      Submissions Attempted
+     </th>
+     <td>
+      1
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Reversals
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <h4>
+  Round 2
+ </h4>
+ <div style=""overflow-x:auto"">
+  <table class=""table table-striped ufc_stats_table"">
+   <thead>
+    <tr>
+     <th scope=""col"">
+      Jan Blachowicz
+     </th>
+     <th scope=""col"">
+     </th>
+     <th scope=""col"">
+      Alex Pereira
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Knockdowns
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      20 of 29
+     </td>
+     <th scope=""row"">
+      Significant Strikes
+     </th>
+     <td>
+      33 of 47
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      68%
+     </td>
+     <th scope=""row"">
+      Significant Strikes %
+     </th>
+     <td>
+      70%
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      50%
+     </td>
+     <th scope=""row"">
+      Takedown %
+     </th>
+     <td>
+      0%
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Submissions Attempted
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Reversals
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <h4>
+  Round 3
+ </h4>
+ <div style=""overflow-x:auto"">
+  <table class=""table table-striped ufc_stats_table"">
+   <thead>
+    <tr>
+     <th scope=""col"">
+      Jan Blachowicz
+     </th>
+     <th scope=""col"">
+     </th>
+     <th scope=""col"">
+      Alex Pereira
+     </th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Knockdowns
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      26 of 46
+     </td>
+     <th scope=""row"">
+      Significant Strikes
+     </th>
+     <td>
+      35 of 42
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      56%
+     </td>
+     <th scope=""row"">
+      Significant Strikes %
+     </th>
+     <td>
+      83%
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      33%
+     </td>
+     <th scope=""row"">
+      Takedown %
+     </th>
+     <td>
+      0%
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Submissions Attempted
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+     <td>
+      0
+     </td>
+     <th scope=""row"">
+      Reversals
+     </th>
+     <td>
+      0
+     </td>
+    </tr>
+    <tr>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+</div>
+"
